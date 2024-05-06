@@ -2,11 +2,9 @@
 title: "Sales_website"
 ---
 
-<div class="side-image">
-
+::: side-image
 ![](giphy.gif){width="450"}
-
-</div>
+:::
 
 ## Dataset
 
